@@ -1,0 +1,33 @@
+_repo: Second-Thoughts-are-Best--Or-a-Further-Improvement-of-a-Late-Scheme-to-Prevent-Street-Robberi__32404
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - Defo, Daniel
+    - John, Gabriel
+    - Moreton, Andrew
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+    - http://www.gutenberg.org/browse/authors/j#a26500
+description: ''
+gutenberg_issued: '2010-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32404'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Robbery -- Great Britain'
+- !lcc 'HV'
+title: 'Second Thoughts are Best: Or a Further Improvement of a Late Scheme to Prevent
+  Street Robberies'
+url: http://www.gutenberg.org/ebooks/32404
